@@ -1,4 +1,4 @@
-## Top 20 Android Games under 25 Mb (Part 2)
+## Top 25 Android Games under 25 Mb (Part 2)
 
 Hey Guys,
 Welcome back to a new post of **SAI ANSUL'S BLOG**
