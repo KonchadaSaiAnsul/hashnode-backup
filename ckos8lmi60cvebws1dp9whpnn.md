@@ -7,7 +7,7 @@ Today we are gonna find out ** How to watch a YouTube video using python with ju
 So the process of this is also similar, though sharing the part 1 and 2.
 
 The process is also divided in 3 parts that are:
--- Creating a project
+- Creating a project
 - Installing ``pywhatkit``
 - 2 lines of code
 
